@@ -140,3 +140,7 @@ cython_debug/
 # dependencies
 ai/covid/models/COVIDNet-CXR4-A/*
 !ai/covid/models/COVIDNet-CXR4-A/.gitkeep
+
+# uploads folder
+uploads/medical_imaging/cxr/*
+!uploads/medical_imaging/cxr/.gitkeep
